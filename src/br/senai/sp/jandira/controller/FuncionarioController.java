@@ -1,4 +1,4 @@
-package br.senai.sp.jandira;
+package br.senai.sp.jandira.controller;
 
 import br.senai.sp.jandira.model.Conexao;
 import br.senai.sp.jandira.model.Funcionario;

@@ -1,5 +1,7 @@
-package br.senai.sp.jandira;
+package br.senai.sp.jandira.controller;
 
+import br.senai.sp.jandira.controller.DepartamentoController;
+import br.senai.sp.jandira.controller.FuncionarioController;
 import br.senai.sp.jandira.model.Funcionario;
 
 import java.sql.SQLException;
